@@ -1,0 +1,12 @@
+24-09-19.19:45:18.853 [main            ] INFO  Application            - Starting Application using Java 1.8.0_361 on DESKTOP-56ALGQM with PID 159952 (D:\zyh\javaproject\big-market\big-market\big-market-app\target\classes started by zhang in D:\zyh\javaproject\big-market\big-market)
+24-09-19.19:45:18.856 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+24-09-19.19:45:19.330 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[cn.bugstack]' package. Please check your configuration.
+24-09-19.19:45:19.593 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+24-09-19.19:45:19.599 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+24-09-19.19:45:19.599 [main            ] INFO  StandardService        - Starting service [Tomcat]
+24-09-19.19:45:19.600 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+24-09-19.19:45:19.714 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+24-09-19.19:45:19.714 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 825 ms
+24-09-19.19:45:20.139 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+24-09-19.19:45:20.151 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
+24-09-19.19:45:20.159 [main            ] INFO  Application            - Started Application in 1.735 seconds (JVM running for 2.406)
