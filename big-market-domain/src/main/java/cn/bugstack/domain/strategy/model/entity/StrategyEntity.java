@@ -31,6 +31,7 @@ public class StrategyEntity {
     //对ruleModels字符串切割出rulewight
     public String getRuleWeight() {
         String[] ruleModels = this.ruleModels();
+        if (ruleModels == null || ruleModels.length == 0) return null;
         for(String ruleModel : ruleModels){
             if ("rule_weight".equals(ruleModel)) return ruleModel;
         }
